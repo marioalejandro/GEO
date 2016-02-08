@@ -35,9 +35,18 @@ git reset --soft dd9rf(Commit Id)
 git reset --mix dd9rf(Commit Id)
 git reset --hard dd9rf(Commit Id)
 
+
 * cambia de version del proyecto a la del commit de la Id indicada
 git checkout sdfadsf...
+
+RAMAS
 * Crea la rama experimental
 git checkout -b experimental
+*intercambio entre ramas (HEAD)
 git checkout master
+*Fusion de Ramas
 git merge experimental (debes estar en master).
+*Fusion de Ramas con confllictod
+1. Resolver conflicto
+2.- git add -A
+3.- git commit

@@ -8,13 +8,13 @@
 *siguiente, siguiente, siguiente...*
 
 ### Cnfiguración ###
-* Examinar la version instalada
+* Examinar la version instalada.
     ``git --version``
-* Configurar tu nmbre
+* Configurar tu nmbre.
     ``git config --global user.name "marioalejando"``
-* configurar tu email
+* configurar tu email.
     ``git config --global user.email "mario.alejandro.011@gmail-com'``
-* Acceder al perfil de colores
+* Acceder al perfil de colores.
     ``git config --global color.ui true'``
-* Examinar las configuaciones de global
+* Examinar las configuaciones de global.
     ``git config --global list``

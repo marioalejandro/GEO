@@ -38,4 +38,5 @@ git reset --har
 
 * Crea la rama experimental
 git checkout -b experimental
+git checkout master
 git merge ...

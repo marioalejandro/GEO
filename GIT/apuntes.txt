@@ -36,5 +36,6 @@ git reset --soft
 git reset --mix
 git reset --har
 
-* Crea la rama paisaje
-git checkout -b paisaje
+* Crea la rama experimental
+git checkout -b experimental
+git merge ...
